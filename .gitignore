@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio files (so its not necessary to have my setup)
+*.sln
+*.sdf
+*/.vs/
+*.VC.opendb
+*.vcxproj
+*.vcxproj.*
+# More will probably come later
